@@ -1,0 +1,2 @@
+*{padding:0;margin:0}#container{position:relative}#ball{height:20px;width:20px;position:fixed;border-radius:50%;background-color:brown;left:60%;top:20px}#bar-1{background-color:#0cec6d;top:0}#bar-1,#bar-2{height:20px;display:flex;justify-content:center;width:150px;border-radius:10px;position:fixed;font-weight:700;left:50%}#bar-2{background-color:#06edf5;bottom:0}
+/*# sourceMappingURL=/csb-82wtdv/styles.78a9484c.css.map */
